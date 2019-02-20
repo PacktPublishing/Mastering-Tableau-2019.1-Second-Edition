@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapsource inline="false" version="8.2">
+  <connection api-version="2" class="OpenStreetMap" indicator-server='http://a.tile.openstreetmap.org/' layer-separator="," max-stretch="1.2" min-shrink="0.667" offline="" port="80" server='http://a.tile.openstreetmap.org/' url-format='{Z}/{X}/{Y}.png'/>
+  <layers>
+    <layer display-name="OSM" name="OSM" show-ui="true" type="features" />
+  </layers>
+  <map-styles>
+    <map-style display-name="OSM" name="OSM">
+      <map-layer-style name="OSM" request-string="OSM" />
+    </map-style>
+  </map-styles>
+  <properties />
+  <mapsource-defaults version="8.2">
+    <style>
+      <style-rule element="map-layer">
+        <format attr="enabled" id="OSM" value="OSM" />
+      </style-rule>
+      <style-rule element="map">
+        <format attr="washout" value="0.0" />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+</mapsource>

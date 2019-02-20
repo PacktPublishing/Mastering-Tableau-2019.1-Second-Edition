@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapsource inline="false" version="9.0">
+  <connection class="OpenStreetMap" server='a.tiles.mapbox.com' url-format='/v4/{L}/{Z}/{X}/{Y}.png256?access_token=pk.eyJ1IjoiZGF2aWRiYWxkd2luIiwiYSI6ImNpZm5jZnVkMWcxeThyc203cG14a2RybmkifQ.GplK2sO26uECRn8abhYIwA'/>
+  <layers>
+    <layer display-name="MapBox" name="davidbaldwin.c5f23abf" 
+	show-ui="false" type="features" />
+  </layers>
+</mapsource>

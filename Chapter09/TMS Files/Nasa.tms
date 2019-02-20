@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<mapsource inline='true' source-platform='win' version='9.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <!-- build 9100.15.0828.1711      
+<connection class='OpenStreetMap'  port='80' server='demis.nl/mapserver/wms.asp?request=GetCapabilities&version=1.0.0' />
+<layers>
+<layer display-name='Base' name='base' show-ui='false' type='features' request-string='/' />
+</layers>
+</mapsource>

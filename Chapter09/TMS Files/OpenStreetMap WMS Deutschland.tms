@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<mapsource inline='true' source-platform='win' version='9.0' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <!-- build 9000.15.0527.1215                                -->
+  <connection class='OGC-WMS' inline='true' offline='' port='80' server='ows.terrestris.de' service='http' tileset='US\normal' url='/osm/service?' use-tiled-maps='true' />
+  <languages>
+  </languages>
+  <properties />
+ <map-styles>
+        <map-style display-name="Normal" name="" wait-tile-color="#F2F2F2">
+            <map-layer-style name="tab_base" request-string="mode=named|from=tableau4_2_base/mode=named|from=tableau4_2_water"/>
+            <map-layer-style name="um_lcover" request-string="mode=named|from=tableau4_2_landcover/mode=named|from=tableau4_2_water"/>
+            <map-layer-style name="tab_coastline" request-string="mode=named|from=tableau4_2_coastline"/>
+            <map-layer-style name="pp2_line" request-string="mode=named|from=tableau4_2_roads"/>
+            <map-layer-style name="light_adm0_bnd" request-string="mode=named|opacity=.7|from=tableau4_2_admin0_borders{L}"/>
+            <map-layer-style name="light_adm0_lbl" request-string="mode=named|opacity=.7|from=tableau4_2_admin0_labels{L}"/>
+            <map-layer-style name="um_adm0_bnd" request-string="mode=named|from=tableau4_2_admin0_borders{L}"/>
+            <map-layer-style name="um_adm0_lbl" request-string="mode=named|from=tableau4_2_admin0_labels{L}"/>
+            <map-layer-style name="light_pp2_statebounds" request-string="mode=named|opacity=.7|from=tableau4_2_admin1_borders{L}"/>
+            <map-layer-style name="light_pp2_statelabels" request-string="mode=named|opacity=.7|from=tableau4_2_admin1_labels{L}"/>
+            <map-layer-style name="pp2_statebounds" request-string="mode=named|from=tableau4_2_admin1_borders{L}"/>
+            <map-layer-style name="pp2_statelabels" request-string="mode=named|from=tableau4_2_admin1_labels{L}"/>
+            <map-layer-style name="countybounds" request-string="from=us_census00.county_geom{L}|border=174b7250_1|colors=clear|min_zoom=6|mode=simple"/>
+            <map-layer-style name="countylabels" request-string="mode=named|from=tableau4_2_county_labels{L}"/>
+            <map-layer-style name="zipbounds" request-string="mode=named|from=tableau4_2_post_code"/>
+            <map-layer-style name="ziplabels" request-string="mode=named|from=tableau4_2_post_code_labels"/>
+            <map-layer-style name="tab_areabounds" request-string="from=us_areacode.ac_geom|border=174b7250_1|colors=clear|min_zoom=4|mode=simple"/>
+            <map-layer-style name="tab_arealabels" request-string="mode=named|from=tableau4_2_area_code_labels"/>
+            <map-layer-style name="tab_msabounds" request-string="from=us_census00.cbsa_geom|border=174b7250_1|colors=clear|min_zoom=4|mode=simple"/>
+            <map-layer-style name="tab_msalabels" request-string="mode=named|from=tableau4_2_cbsa_labels"/>
+            <map-layer-style name="pp2_adminlabels" request-string="mode=named|from=tableau4_2_place_labels{L}"/>
+            <map-layer-style name="background_color" request-string="#FFFFFF"/>
+        </map-style>
+  <mapsource-defaults version='9.0'>
+    <style>
+      <style-rule element='map-layer'>
+        <format attr='enabled' id='OSM-WMS' value='true' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+</mapsource>

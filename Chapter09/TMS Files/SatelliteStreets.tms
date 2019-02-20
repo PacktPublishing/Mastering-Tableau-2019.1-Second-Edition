@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapsource inline="true" version="9.0">
+  <connection api-version="2" class="OpenStreetMap" indicator-server='a.tiles.mapbox.com' layer-separator="," max-stretch="1.2" min-shrink="0.667" offline="" port="80" server='a.tiles.mapbox.com' url-format='/v4/{L}/{Z}/{X}/{Y}.png256?access_token=pk.eyJ1Ijoid2RhdmlkYmFsZHdpbiIsImEiOiJjaWV0OWdrNTQwMXdscjhtMDhqY2JnNXhqIn0.cxbmv5OSNE4MgZimbaRjJQ'/>
+  <layers>
+    <layer display-name="Satellite Streets" name="wdavidbaldwin.19ec7753" 
+	show-ui="true" type="features" />
+  </layers>
+  <map-styles>
+    <map-style display-name="Satellite Streets" name="wdavidbaldwin.19ec7753">
+      <map-layer-style name="wdavidbaldwin.19ec7753" request-string="wdavidbaldwin.19ec7753" />
+    </map-style>
+  </map-styles>
+  <properties />
+  <mapsource-defaults version="9.0">
+    <style>
+      <style-rule element="map-layer">
+        <format attr="enabled" id="wdavidbaldwin.19ec7753" value="wdavidbaldwin.19ec7753" />
+      </style-rule>
+      <style-rule element="map">
+        <format attr="washout" value="0.0" />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+<map-attribution copyright-string="Null Island Mapping" copyright-url="www.mapbox.com/about/maps/" short-copyright-string="Â© Mapbox"/>
+</mapsource>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapsource inline="true" version="8.2">
+  <connection api-version="2" class="OpenStreetMap" indicator-server='http://tile.stamen.com/' layer-separator="," max-scale-level="19.0" max-stretch="1.2" min-shrink="0.667" offline="" port="80" server='http://tile.stamen.com/' url-format='/terrain-background/zoom/x/y.jpg'/>
+  <layers>
+    <layer display-name="Migurski_Map" name="Migurski_Map" show-ui="true" type="features" />
+  </layers>
+  <map-styles>
+    <map-style display-name="Migurski_Map" name="Migurski_Map">
+      <map-layer-style name="Migurski_Map" request-string="Migurski_Map" />
+    </map-style>
+  </map-styles>
+  <properties />
+  <mapsource-defaults version="8.2">
+    <style>
+      <style-rule element="map-layer">
+        <format attr="enabled" id="Migurski_Map" value="Migurski_Map" />
+      </style-rule>
+      <style-rule element="map">
+        <format attr="washout" value="0.0" />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+</mapsource>

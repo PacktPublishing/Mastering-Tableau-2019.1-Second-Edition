@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapsource inline="false" version="8.1">
+<connection class="OpenStreetMap" port="80" max-stretch="1.2" min-shrink="0.667" server="http://services.arcgisonline.com" url-format="/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{Z}/{Y}/{X}" />
+<layers>
+	<layer display-name='World Topo Base' name='World TB' show-ui='false' type='features' request-string='/' />
+</layers>
+</mapsource>
