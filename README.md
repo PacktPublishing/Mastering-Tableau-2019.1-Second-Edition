@@ -48,11 +48,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789533880_ColorImages.pdf).
 
-## Code in Action
 
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
 
 ### Related products <Other books you may enjoy>
 * Tableau 2019.x Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/tableau-2019x-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789533385) [[Amazon]](https://www.amazon.com/dp/1789533384)
