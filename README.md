@@ -60,7 +60,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 **David Baldwin** has provided consultancy services in the business intelligence sector for 17 years. His experience includes Tableau training and consulting, developing BI solutions, project management, technical writing, and web and graphic design. His vertical industry experience includes the financial, healthcare, human resource, aerospace, energy, education, government, and entertainment sectors. As a Tableau trainer and consultant, David enjoys serving a variety of clients throughout the USA. Tableau provides David with a platform that collates his broad experience into a skill set that can service a diverse client base
 
-## Other books by the authors
+## Other book by the author
 * [Mastering Tableau](https://www.packtpub.com/big-data-and-business-intelligence/mastering-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781784397692)
 
 ### Suggestions and Feedback
