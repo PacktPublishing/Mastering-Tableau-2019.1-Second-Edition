@@ -59,7 +59,7 @@ Click on the following link to see the Code in Action:
 
 * Getting Started with Tableau 2018.x[[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tableau-2018x?utm_source=github&utm_medium=repository&utm_campaign=9781788838689) [[Amazon]](https://www.amazon.com/dp/1788838688)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 Marleen Meier has worked in the field of data science and business intelligence since 2013. Her experience includes Tableau training, proof of concepts, implementations, project management, user interface designs, and quantitative risk management. In 2018, she was a speaker at the Tableau conference, where she showcased a machine learning project. Marleen uses Tableau, combined with other tools and software, to get the best business value for her stakeholders. She is also very active within the Tableau community and recently joined the Dutch Tableau user group as one of their four leaders.
 
 David Baldwin has provided consultancy services in the business intelligence sector for 17 years. His experience includes Tableau training and consulting, developing BI solutions, project management, technical writing, and web and graphic design. His vertical industry experience includes the financial, healthcare, human resource, aerospace, energy, education, government, and entertainment sectors. As a Tableau trainer and consultant, David enjoys serving a variety of clients throughout the USA. Tableau provides David with a platform that collates his broad experience into a skill set that can service a diverse client base
